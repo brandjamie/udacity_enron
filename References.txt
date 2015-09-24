@@ -1,0 +1,17 @@
+References:
+
+
+http://scikit-learn.org/stable/index.html
+
+http://scikit-learn.org/stable/auto_examples/plot_digits_pipe.html
+http://scikit-learn.org/stable/modules/svm.html
+http://stats.stackexchange.com/questions/31066/what-is-the-influence-of-c-in-svms-with-linear-kernel
+http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.htm
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+http://stats.stackexchange.com/questions/27764/using-adaboost-with-svm-for-classification
+http://scikit-learn.org/stable/modules/pipeline.html
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
